@@ -1,0 +1,6 @@
+@startuml
+のび太 -> 剛田武 : hello
+kento -> 鈴木太郎 : goodbye
+のびすけ -> vinijr : 12345
+@enduml
+
