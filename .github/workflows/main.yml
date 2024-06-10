@@ -1,9 +1,6 @@
 name: test
 
-on:
-  pull_request:
-    branches:
-      - main
+on: [push]
 
 jobs:
   get-changed-files:
